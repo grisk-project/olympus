@@ -1,0 +1,9 @@
+spring:
+  jpa:
+    database: '{cipher}2e1d431be3c0244d79a2819292a9596346a49f9f58ffc49e7bdca5e890d5abe7'
+  datasource:
+    url: '{cipher}aacd7f316f92a68513a1a905afa30d748a08a6f8120f30b616a95df65b2f7146831fcd7feb9b870cabc0a76a55036533dae6d9f7a298568ae62e3fbf929c286e'
+    username: '{cipher}96f1038da34753c183855ec57b53afe5b03d1683f2c39912926e1dae525493f6'
+    password: '{cipher}6e540d48944d18ff2403524a5a55697d85a54488be4c65d29f873c999541d26b'
+    platform: '{cipher}115ff7e253a52f8d4748aa1556923e7f91aa7f0dfd7843192c67979ca402eceb'
+    driver-class-name: '{cipher}ff45a9936c9bf89360a0a10e1868467873a5a2eaf9c4aceefd184ec013adf3a603b7ffe9d5b835c90ca49aedbf81c326'
