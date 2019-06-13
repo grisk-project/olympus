@@ -5,5 +5,3 @@ spring:
         jdbc:
           lob:
             non_contextual_creation:  true
-  hateoas:
-    use-hal-as-default-json-media-type: false
