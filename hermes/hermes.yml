@@ -1,0 +1,7 @@
+api:
+  mail:
+    key:
+      public: '{cipher}2fa53a2e1077c4308935504614e679093faeed0f349dba6124f0171be64de8aaafa9e0aa42d02db54967e1de7b899c16603acbc6b0addf06a0ca71e0d8428e4b'
+      secret: '{cipher}fb06a241d613da8fc93b920f2e3d43a174a960d7d739568fb53e79535d565baad149961f57dd739b787dc8168acb6e311b0e395141bd982ac88c7b99e7b45e07'
+    to: 'hola@grisk.online'
+    name: 'GRisk'
